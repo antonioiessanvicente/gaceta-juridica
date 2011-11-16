@@ -1,0 +1,73 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:GDatos.cs" caret="11298" fromTop="18" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:SqlServer.cs" caret="5222" fromTop="23" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="273" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="85" fromTop="8" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="4501" fromTop="24" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="4243" fromTop="11" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="1105" fromTop="30" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="477" fromTop="19" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="1095" fromTop="22" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="1290" fromTop="14" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="1471" fromTop="6" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="1481" fromTop="23" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="0" fromTop="0" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="1764" fromTop="25" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="2270" fromTop="17" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="1990" fromTop="12" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="1550" fromTop="1" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="2757" fromTop="17" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="3753" fromTop="21" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="4218" fromTop="18" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="3930" fromTop="11" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="4472" fromTop="28" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="4374" fromTop="24" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="4615" fromTop="29" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="4864" fromTop="27" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="3320" fromTop="36" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="3320" fromTop="33" />
+      <File id="053CD54D-D990-4694-8ED5-94601661E5B0/f:Firebird.cs" caret="191" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="AccesoDatos" priority="0" />
+      <Item value="Conexion`0" priority="0" />
+      <Item value="GDatos`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="FirebirdSql" priority="3" />
+      <Item value="Data" priority="3" />
+      <Item value="FirebirdClient" priority="2" />
+      <Item value="Client" priority="0" />
+      <Item value="FbCommand`0" priority="0" />
+      <Item value="fixed" priority="0" />
+      <Item value="FbConnection`0" priority="0" />
+      <Item value="FbTransaction`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccesoDatos.Firebird">
+      <Item value="MTransaccion" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

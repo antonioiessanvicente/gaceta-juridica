@@ -1,0 +1,28 @@
+F:\examples_pdf\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.exe
+F:\examples_pdf\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.pdb
+F:\examples_pdf\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.xml
+F:\examples_pdf\EnvioCorreoWindows PDF\obj\Debug\ResolveAssemblyReference.cache
+F:\examples_pdf\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.EnvioCorreo.resources
+F:\examples_pdf\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.vbproj.GenerateResource.Cache
+F:\examples_pdf\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.exe
+F:\examples_pdf\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.xml
+F:\examples_pdf\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.pdb
+F:\examples_pdf\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.exe.manifest
+F:\examples_pdf\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.application
+F:\examples_pdf\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.exe.manifest
+F:\examples_pdf\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.application
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.exe
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.xml
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.pdb
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.exe.manifest
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.application
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.exe
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.pdb
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.xml
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\obj\Debug\ResolveAssemblyReference.cache
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.EnvioCorreo.resources
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.exe.manifest
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\obj\Debug\EnvioCorreoWindows.application
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\bin\EnvioCorreoWindows.exe.config
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\obj\Debug\ResGen.read.1.tlog
+E:\Prroyecto2012\PROYECT-ENVIO DE EMAILS\EnvioCorreoWindows PDF\obj\Debug\ResGen.write.1.tlog

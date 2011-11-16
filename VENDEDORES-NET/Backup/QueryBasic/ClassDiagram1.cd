@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QueryBasic.frmSuscripciones" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgC2AACAAAAAAoEGAAFgCAAAEAAAAAABAAAAAAAA=</HashCode>
+      <FileName>frmSuscripciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QueryBasic.Clientes" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACIAEAAAAACACAACAAAEAAAAAAAAAQQAIgA=</HashCode>
+      <FileName>Clientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QueryBasic.Principal" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQBQAC0AACEAEAAACiKEAEcCAgAAAEgBAAQAIwoAAAE=</HashCode>
+      <FileName>Principal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QueryBasic.EstadosCuenta" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGEKDABAgWBAAvR/EEDIAAJysDAYhWAYFAIB4x/YgIE=</HashCode>
+      <FileName>EstadosCuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

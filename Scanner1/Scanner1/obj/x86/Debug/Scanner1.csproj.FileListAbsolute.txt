@@ -1,0 +1,12 @@
+E:\Prroyecto2012\Scanner1\Scanner1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Prroyecto2012\Scanner1\Scanner1\obj\x86\Debug\Interop.WIA.dll
+E:\Prroyecto2012\Scanner1\Scanner1\obj\x86\Debug\Scanner1.csproj.ResolveComReference.cache
+E:\Prroyecto2012\Scanner1\Scanner1\obj\x86\Debug\Scanner1.Form1.resources
+E:\Prroyecto2012\Scanner1\Scanner1\obj\x86\Debug\Scanner1.Properties.Resources.resources
+E:\Prroyecto2012\Scanner1\Scanner1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Prroyecto2012\Scanner1\Scanner1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Prroyecto2012\Scanner1\Scanner1\bin\Debug\Scanner1.exe
+E:\Prroyecto2012\Scanner1\Scanner1\bin\Debug\Scanner1.pdb
+E:\Prroyecto2012\Scanner1\Scanner1\obj\x86\Debug\Scanner1.exe
+E:\Prroyecto2012\Scanner1\Scanner1\obj\x86\Debug\Scanner1.pdb
+E:\Prroyecto2012\Scanner1\Scanner1\bin\Debug\PdfSharp.dll

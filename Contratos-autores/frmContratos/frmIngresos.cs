@@ -1,0 +1,101 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using AccesoDatos.Orm;
+
+namespace frmContratos
+{
+    public partial class frmIngresos : Form
+    {
+        private Maestro maestro1 = new Maestro();
+        public frmIngresos()
+        {
+            InitializeComponent();
+        }
+
+        private void frmIngresos_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                //AccesoDatos.Conexion.IniciarSesion("192.168.0.6", "juridica");
+                //MessageBox.Show(@"Se conecto exitosamente, más le vale!");
+                MuestraDatos();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+        }
+        private void MuestraDatos()
+        {
+            try
+            {
+                maestro1.ERRORES = "";
+                maestro1.CODIGO_CONTRATO = ContratoActual.CODIGO_CONTRATO;
+                dg_Contratos.DataSource = maestro1.LeeIngresos(maestro1);
+
+                DataGridViewColumn COL01 = new DataGridViewColumn();
+                COL01 = dg_Contratos.Columns["PRODUCTO"];
+                COL01.Width = 400;
+                COL01.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft;
+                COL01.HeaderText = "NOMBRE DEL PRODUCTO";
+
+                DataGridViewColumn COL02 = new DataGridViewColumn();
+                COL02 = dg_Contratos.Columns["DETALLE"];
+                COL02.Width = 200;
+                COL02.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft;
+                COL02.HeaderText = "DETALLE";
+
+                DataGridViewColumn COL03 = new DataGridViewColumn();
+                COL03 = dg_Contratos.Columns["CANTIDAD"];
+                COL03.Width = 80;
+                COL03.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+                COL03.HeaderText = "CANTIDAD";
+                COL03.DefaultCellStyle.Format = "##,##0";
+
+                DataGridViewCellStyle typeGreen = new DataGridViewCellStyle();
+                typeGreen.BackColor = Color.DarkCyan;
+                foreach (DataGridViewRow gridrow in dg_Contratos.Rows)
+                {
+                    if (gridrow.Cells[0].Value.ToString() == "     =====>> SUB TOTAL") //Check your hidden field value with cells value
+                    {
+                        gridrow.Cells[0].Style = typeGreen;
+                        gridrow.Cells[1].Style = typeGreen;
+                        gridrow.Cells[2].Style = typeGreen;
+                    }
+                }
+            }
+            catch (Exception ex)
+            { MessageBox.Show(ex.Message); }
+        }
+        private void FormatGridWithTableStyles()
+        {
+            dg_Contratos.BackColor = Color.GhostWhite;
+            dg_Contratos.BackgroundColor = Color.Lavender;
+            dg_Contratos.BorderStyle = BorderStyle.None;
+            dg_Contratos.Font = new Font("Tahoma", (float)8.0);
+            DataGridTableStyle grdTableStyle1 = new DataGridTableStyle();
+            grdTableStyle1.AlternatingBackColor = Color.GhostWhite;
+            grdTableStyle1.BackColor = Color.GhostWhite;
+            grdTableStyle1.ForeColor = Color.MidnightBlue;
+            grdTableStyle1.GridLineColor = Color.RoyalBlue;
+            grdTableStyle1.HeaderBackColor = Color.MidnightBlue;
+            grdTableStyle1.HeaderFont = new Font("Tahoma", (float)8.0, FontStyle.Bold);
+            grdTableStyle1.HeaderForeColor = Color.Lavender;
+            grdTableStyle1.SelectionBackColor = Color.Teal;
+            grdTableStyle1.SelectionForeColor = Color.PaleGreen;
+            grdTableStyle1.MappingName = "Suscripciones";
+            grdTableStyle1.PreferredColumnWidth = 125;
+            grdTableStyle1.PreferredRowHeight = 15;
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+    }
+}

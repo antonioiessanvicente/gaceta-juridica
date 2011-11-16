@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QueryBasic">
+</Property><Property Name="Archivo de la solución" Value="D:\QueryBasic\QueryBasic.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\QueryBasic\QueryBasic.suo">
+</Property><Property Name="Date" Value="jueves, 27 de enero de 2011">
+</Property><Property Name="Time" Value="13:19 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="QueryBasic.sln" Description="La copia D:\QueryBasic\Backup\QueryBasic.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="QueryBasic.suo" Description="La copia D:\QueryBasic\Backup\QueryBasic.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="4" Project="QueryBasic" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Advertencia: este proyecto requiere Crystal Reports, que ya no se incluye con Visual Studio. Haga clic aquí para obtener más información.">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\QueryBasic.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\QueryBasic\Backup\QueryBasic\QueryBasic.csproj">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\QueryBasic.csproj.user" Description="La copia de seguridad D:\QueryBasic\Backup\QueryBasic\QueryBasic.csproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Clientes.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Clientes.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Clientes.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Clientes.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\EstadosCuenta.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\EstadosCuenta.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\EstadosCuenta.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\EstadosCuenta.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmDetalleDoc.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmDetalleDoc.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmDetalleDoc.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmDetalleDoc.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmDetalleKardex.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmDetalleKardex.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmDetalleKardex.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmDetalleKardex.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmEjecutivos.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmEjecutivos.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmEjecutivos.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmEjecutivos.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmEmails.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmEmails.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmEmails.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmEmails.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmKardexVendedores.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmKardexVendedores.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmKardexVendedores.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmKardexVendedores.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmStatus.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmStatus.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmStatus.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmStatus.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmSuscripciones.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmSuscripciones.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmSuscripciones.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmSuscripciones.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frm_MaterialEntregado.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frm_MaterialEntregado.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frm_MaterialEntregado.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frm_MaterialEntregado.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Login.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Login.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Login.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Principal.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Principal.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Principal.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Principal.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Program.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\app.config" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\app.config">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\ClassDiagram1.cd" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\QueryBasic_TemporaryKey.pfx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\QueryBasic_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Resources\return.png" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Resources\return.png">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Resources\return1.png" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Resources\return1.png">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Resources\email.png" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Resources\email.png">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Clientes.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Clientes.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\EstadosCuenta.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\EstadosCuenta.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmDetalleDoc.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmDetalleDoc.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmDetalleKardex.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmDetalleKardex.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmEjecutivos.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmEjecutivos.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmEmails.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmEmails.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmKardexVendedores.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmKardexVendedores.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmStatus.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmStatus.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frmSuscripciones.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frmSuscripciones.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\frm_MaterialEntregado.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\frm_MaterialEntregado.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Login.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Login.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Principal.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Principal.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Properties\licenses.licx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Properties\licenses.licx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\QueryBasic\Backup\QueryBasic\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\QueryBasic.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="QueryBasic" Source="QueryBasic\QueryBasic.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="SetupQuery" Source="C:\Users\mmendoza1\Documents\Visual Studio 2008\Projects\SetupQuery\SetupQuery\SetupQuery.vdproj" Description="Advertencia: se está haciendo una copia de seguridad del archivo de proyecto en una ruta de acceso relativa que es diferente de la ruta de acceso relativa de la solución original. La diferencia en la jerarquía de carpetas puede crear problemas al abrir o gene">
+</Event><Event ErrorLevel="0" Project="SetupQuery.vdproj" Source="C:\Users\mmendoza1\Documents\Visual Studio 2008\Projects\SetupQuery\SetupQuery\SetupQuery.vdproj" Description="La copia de seguridad del archivo de proyecto se realizó correctamente: D:\QueryBasic\Backup\SetupQuery\SetupQuery.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="QueryBasic.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="QueryBasic.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QueryBasic" Source="QueryBasic\QueryBasic.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
