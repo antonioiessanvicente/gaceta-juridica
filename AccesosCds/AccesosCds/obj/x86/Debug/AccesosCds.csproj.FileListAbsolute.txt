@@ -1,0 +1,10 @@
+E:\Prroyecto2012\AccesosCds\AccesosCds\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Prroyecto2012\AccesosCds\AccesosCds\obj\x86\Debug\AccesosCds.Form1.resources
+E:\Prroyecto2012\AccesosCds\AccesosCds\obj\x86\Debug\AccesosCds.Properties.Resources.resources
+E:\Prroyecto2012\AccesosCds\AccesosCds\obj\x86\Debug\ResGen.read.1.tlog
+E:\Prroyecto2012\AccesosCds\AccesosCds\obj\x86\Debug\ResGen.write.1.tlog
+E:\Prroyecto2012\AccesosCds\AccesosCds\bin\Debug\AccesosCds.exe
+E:\Prroyecto2012\AccesosCds\AccesosCds\bin\Debug\AccesosCds.pdb
+E:\Prroyecto2012\AccesosCds\AccesosCds\bin\Debug\AccesoDatos.dll
+E:\Prroyecto2012\AccesosCds\AccesosCds\obj\x86\Debug\AccesosCds.exe
+E:\Prroyecto2012\AccesosCds\AccesosCds\obj\x86\Debug\AccesosCds.pdb

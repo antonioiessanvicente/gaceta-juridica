@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryBasic", "QueryBasic\QueryBasic.csproj", "{219FCFF7-EC1C-4529-8082-E9C15F3E6191}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupQuery", "C:\Users\mmendoza1\Documents\Visual Studio 2008\Projects\SetupQuery\SetupQuery\SetupQuery.vdproj", "{FAB5F0CD-3B66-4ED8-B253-D634067E730A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219FCFF7-EC1C-4529-8082-E9C15F3E6191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219FCFF7-EC1C-4529-8082-E9C15F3E6191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219FCFF7-EC1C-4529-8082-E9C15F3E6191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219FCFF7-EC1C-4529-8082-E9C15F3E6191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB5F0CD-3B66-4ED8-B253-D634067E730A}.Debug|Any CPU.ActiveCfg = Debug
+		{FAB5F0CD-3B66-4ED8-B253-D634067E730A}.Debug|Any CPU.Build.0 = Debug
+		{FAB5F0CD-3B66-4ED8-B253-D634067E730A}.Release|Any CPU.ActiveCfg = Release
+		{FAB5F0CD-3B66-4ED8-B253-D634067E730A}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MDIParent1.resources
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Prroyecto2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.licenses

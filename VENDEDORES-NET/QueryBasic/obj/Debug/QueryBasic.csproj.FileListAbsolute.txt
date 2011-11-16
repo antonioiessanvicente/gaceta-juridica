@@ -1,0 +1,110 @@
+C:\Users\mendoza\AppData\Local\Temporary Projects\QueryBasic\bin\Debug\QueryBasic.exe
+C:\Users\mendoza\AppData\Local\Temporary Projects\QueryBasic\bin\Debug\QueryBasic.pdb
+C:\Users\mendoza\AppData\Local\Temporary Projects\QueryBasic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mendoza\AppData\Local\Temporary Projects\QueryBasic\obj\Debug\QueryBasic.Principal.resources
+C:\Users\mendoza\AppData\Local\Temporary Projects\QueryBasic\obj\Debug\QueryBasic.Properties.Resources.resources
+C:\Users\mendoza\AppData\Local\Temporary Projects\QueryBasic\obj\Debug\QueryBasic.csproj.GenerateResource.Cache
+C:\Users\mendoza\AppData\Local\Temporary Projects\QueryBasic\obj\Debug\QueryBasic.exe
+C:\Users\mendoza\AppData\Local\Temporary Projects\QueryBasic\obj\Debug\QueryBasic.pdb
+C:\Users\mendoza\AppData\Local\Temporary Projects\QueryBasic\obj\Debug\QueryBasic.exe.licenses
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\QueryBasic.exe
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\QueryBasic.pdb
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\bin\Debug\QueryBasic.exe
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\bin\Debug\QueryBasic.pdb
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\ResolveAssemblyReference.cache
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Principal.resources
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Properties.Resources.resources
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\QueryBasic.csproj.GenerateResource.Cache
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\QueryBasic.exe.licenses
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmStatus.resources
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Login.resources
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\bin\Debug\QueryBasic.exe.config
+D:\SetupGNSSDownload\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Clientes.resources
+D:\QueryBasic\QueryBasic\bin\Debug\QueryBasic.exe.config
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.exe
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.pdb
+D:\QueryBasic\QueryBasic\bin\Debug\QueryBasic.exe
+D:\QueryBasic\QueryBasic\bin\Debug\QueryBasic.pdb
+D:\QueryBasic\QueryBasic\obj\Debug\ResolveAssemblyReference.cache
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Clientes.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmStatus.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Login.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Principal.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Properties.Resources.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.exe.licenses
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmSuscripciones.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.EstadosCuenta.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frm_MaterialEntregado.resources
+D:\QueryBasic\QueryBasic\bin\Debug\QueryBasic.exe.manifest
+D:\QueryBasic\QueryBasic\bin\Debug\QueryBasic.application
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.exe.manifest
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.application
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmKardexVendedores.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmDetalleKardex.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmDetalleDoc.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmEjecutivos.resources
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmEmails.resources
+D:\QueryBasic\QueryBasic\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\QueryBasic\QueryBasic\bin\Debug\office.dll
+D:\QueryBasic\QueryBasic\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\QueryBasic\QueryBasic\bin\Debug\office.xml
+D:\QueryBasic\QueryBasic\obj\Debug\QueryBasic.csproj.GenerateResource.Cache
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\bin\Debug\QueryBasic.exe.config
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.exe
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.pdb
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\bin\Debug\QueryBasic.exe.manifest
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\bin\Debug\QueryBasic.application
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\bin\Debug\QueryBasic.exe
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\bin\Debug\QueryBasic.pdb
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\bin\Debug\office.dll
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\bin\Debug\office.xml
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\ResolveAssemblyReference.cache
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Clientes.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.EstadosCuenta.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmDetalleDoc.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmDetalleKardex.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmEjecutivos.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmEmails.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmKardexVendedores.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmStatus.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frmSuscripciones.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.frm_MaterialEntregado.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Login.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Principal.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.Properties.Resources.resources
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.csproj.GenerateResource.Cache
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.exe.licenses
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.exe.manifest
+D:\VARIOS - SETUPS - 2011\QueryBasic\QueryBasic\obj\Debug\QueryBasic.application
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\bin\Debug\QueryBasic.exe.config
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.exe
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.pdb
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\bin\Debug\QueryBasic.exe.manifest
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\bin\Debug\QueryBasic.application
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\bin\Debug\QueryBasic.exe
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\bin\Debug\QueryBasic.pdb
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\bin\Debug\office.dll
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\bin\Debug\office.xml
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\ResolveAssemblyReference.cache
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.Clientes.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.EstadosCuenta.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.frmDetalleDoc.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.frmDetalleKardex.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.frmEjecutivos.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.frmEmails.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.frmKardexVendedores.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.frmStatus.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.frmSuscripciones.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.frm_MaterialEntregado.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.Login.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.Principal.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.Properties.Resources.resources
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.exe.licenses
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.exe.manifest
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\QueryBasic.application
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\ResGen.read.1.tlog
+E:\Prroyecto2012\VENDEDORES-NET\QueryBasic\obj\Debug\ResGen.write.1.tlog

@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{81A41E07-899E-4BAD-89A8-F57B68AF3DE2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ErpGaceta</RootNamespace>
+    <AssemblyName>ErpGaceta</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://localhost:8080/Distribuidores/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4367CBE780EAFB79859DAACEA982F74BB0E3E1F7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ErpGaceta_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AccesoDatos">
+      <HintPath>..\AccesoDatos.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Shared.v11.1, Version=11.1.20111.2042, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.Misc.v11.1, Version=11.1.20111.2042, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v11.1, Version=11.1.20111.2042, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinExplorerBar.v11.1, Version=11.1.20111.2042, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinStatusBar.v11.1, Version=11.1.20111.2042, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinTabbedMdi.v11.1, Version=11.1.20111.2042, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinTabControl.v11.1, Version=11.1.20111.2042, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinToolbars.v11.1, Version=11.1.20111.2042, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.v11.1, Version=11.1.20111.2042, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PDFView">
+      <HintPath>F:\PDFView\PDFView\bin\Debug\PDFView.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormPrueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrueba.Designer.cs">
+      <DependentUpon>FormPrueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBusquedas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBusquedas.Designer.cs">
+      <DependentUpon>frmBusquedas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCambioEmpresas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCambioEmpresas.Designer.cs">
+      <DependentUpon>frmCambioEmpresas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCobranza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCobranza.Designer.cs">
+      <DependentUpon>frmCobranza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDetalleRegDistribuidores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDetalleRegDistribuidores.Designer.cs">
+      <DependentUpon>frmDetalleRegDistribuidores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFacturas.Designer.cs">
+      <DependentUpon>frmFacturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerDetalleDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerDetalleDocumentos.Designer.cs">
+      <DependentUpon>frmVerDetalleDocumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DistribucionDist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DistribucionDist.Designer.cs">
+      <DependentUpon>frm_DistribucionDist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_LlenarData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_LlenarData.Designer.cs">
+      <DependentUpon>frm_LlenarData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Reportes.Designer.cs">
+      <DependentUpon>frm_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SetData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SetData.Designer.cs">
+      <DependentUpon>frm_SetData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReglasNegocioDistribuidores.cs" />
+    <Compile Include="Reporte001.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporte001.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="FormPrueba.resx">
+      <DependentUpon>FormPrueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBusquedas.resx">
+      <DependentUpon>frmBusquedas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCambioEmpresas.resx">
+      <DependentUpon>frmCambioEmpresas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCobranza.resx">
+      <DependentUpon>frmCobranza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDetalleRegDistribuidores.resx">
+      <DependentUpon>frmDetalleRegDistribuidores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFacturas.resx">
+      <DependentUpon>frmFacturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerDetalleDocumentos.resx">
+      <DependentUpon>frmVerDetalleDocumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DistribucionDist.resx">
+      <DependentUpon>frm_DistribucionDist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_LlenarData.resx">
+      <DependentUpon>frm_LlenarData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Reportes.resx">
+      <DependentUpon>frm_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SetData.resx">
+      <DependentUpon>frm_SetData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reporte001.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporte001.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ErpGaceta_TemporaryKey.pfx" />
+    <None Include="Properties\DataSources\Reporte001.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Del.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fin1.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fin2.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ret.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Del1.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit1.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fin11.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fin21.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New1.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print1.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ret1.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cerrar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scan.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cerrar1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WIA">
+      <Guid>{94A0E92D-43C0-494E-AC29-FD45948A5221}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico1852.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VIEW21B.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\210.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\010.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\117.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\118.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\119.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\120.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="frmContratos.exe" version="1.0.0.2" publicKeyToken="f3908bba4110435e" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="System.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="frmContratos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="frmContratos.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AccesoDatos.dll" size="17408">
+      <assemblyIdentity name="AccesoDatos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>u8qJ/vKl5CCkZMjSlLyHoUlzp0M=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="frmContratos.exe" size="436736">
+      <assemblyIdentity name="frmContratos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>476W/QaUaG6aqaRMZsKb8CY1W9Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="frmContratos.exe.config" size="120">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8ftcJLBvUoWhkXPJxPg06pDsU2M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="System.ico" size="161862">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iBo2LL0RA6PcopNIGMwSpVpr+/Q=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=GACETAJURIDICA\mmendoza1" issuerKeyHash="215f299f4550e68db5460043d6986e2e2f9df3ad" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>nHQ/i2e+RwhBAjdKoqs7kfLuNio=</DigestValue></Reference></SignedInfo><SignatureValue>cn2Sxv/zmlYqAgOZ5Go/UIhPR5atWrD7JKerxh9SR288E4hulER0U5azjQnLI1NYDyWplEkcq5Wl6SXh5UQ/BjaXhGXHr+/eutL01S/Mg02pAyQ2E3Hx2lQeKt/rPI3ZD5HlzMkKIx7x0X/Zh0q/mIShhdWRlTqaJoTvPUptFXQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nAloWwDowYsfaJ3J06tam1ItQIlb+WXqSfq2BySPFpQlWgISs/CxnbfGsFa2FZbTSdMyLI30exLiV8XlQ+cydpADDIjnTjmvNl1szmuxUhHuL1xiUfXD93WDedZC4ajq82f3y5o/A5fEUtVkhqaVeTN4ESxToHkI28ZAz2RQSJk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2a36eef2913baba24a3702410847be678b3f749c" Description="" Url=""><as:assemblyIdentity name="frmContratos.exe" version="1.0.0.2" publicKeyToken="f3908bba4110435e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GACETAJURIDICA\mmendoza1</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>KhFg5Mhb4tdRSwfE0vKJHXQ4sFQ=</DigestValue></Reference></SignedInfo><SignatureValue>iAFGN2/VPg/dQC9Z+TBflY1GghYVIRGBNDSghCfIdYvK9t8stcWQm72RrI26igET4trJxwlcppIkIWhi748rwi/Kn7WGTmQRJCVN3t6zJ5OjRPz0c3l7w0H7OSfU9juT3EFgGxG7OmxSxX6eZJ5TYaUyXlVhBJgplpAXI8ylBBQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nAloWwDowYsfaJ3J06tam1ItQIlb+WXqSfq2BySPFpQlWgISs/CxnbfGsFa2FZbTSdMyLI30exLiV8XlQ+cydpADDIjnTjmvNl1szmuxUhHuL1xiUfXD93WDedZC4ajq82f3y5o/A5fEUtVkhqaVeTN4ESxToHkI28ZAz2RQSJk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQK6YKqXPHBbFONUxHc6ZuozANBgkqhkiG9w0BAQUFADA7MTkwNwYDVQQDHjAARwBBAEMARQBUAEEASgBVAFIASQBEAEkAQwBBAFwAbQBtAGUAbgBkAG8AegBhADEwHhcNMTEwMjI4MjAwMDUxWhcNMTIwMjI5MDIwMDUxWjA7MTkwNwYDVQQDHjAARwBBAEMARQBUAEEASgBVAFIASQBEAEkAQwBBAFwAbQBtAGUAbgBkAG8AegBhADEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJwJaFsA6MGLH2idydOrWptSLUCJW/ll6kn6tgckjxaUJVoCErPwsZ23xrBWthWW00nTMiyN9HsS4lfF5UPnMnaQAwyI5045rzZdbM5rsVIR7i9cYlH1w/d1g3nWQuGo6vNn98uaPwOXxFLVZIamlXkzeBEsU6B5CNvGQM9kUEiZAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAkf458IR2v9LXB4NfGR1L4L/CnfPpgOFZmL5pMkxqre9Wpn0M7Xh3LQbytatYwyqWzo99g6l6hy0dRNgEpYe/iTRxcQ1sSolLIhRSBHUNOzmXZ4EOQ0CmbehedTqSfyMKb5xo3Lla8vOY++To6XCKGi96mTNXEou1sCqacAD6N64=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,55 @@
+D:\Devtroce\frmContratos\obj\Debug\ResolveAssemblyReference.cache
+D:\Devtroce\frmContratos\obj\Debug\frmContratos.frmContratos.resources
+D:\Devtroce\frmContratos\obj\Debug\frmContratos.Properties.Resources.resources
+D:\Devtroce\frmContratos\obj\Debug\frmContratos.csproj.GenerateResource.Cache
+D:\Devtroce\frmContratos\bin\Debug\frmContratos.exe
+D:\Devtroce\frmContratos\bin\Debug\frmContratos.pdb
+D:\Devtroce\frmContratos\obj\Debug\frmContratos.exe
+D:\Devtroce\frmContratos\obj\Debug\frmContratos.pdb
+D:\Devtroce\frmContratos\obj\Debug\frmContratos.frmRegContratos.resources
+D:\Devtroce\frmContratos\bin\Debug\AccesoDatos.dll
+D:\Devtroce\frmContratos\bin\Debug\AccesoDatos.pdb
+F:\Contratos\frmContratos\obj\Debug\frmContratos.exe
+F:\Contratos\frmContratos\obj\Debug\frmContratos.pdb
+F:\Contratos\frmContratos\obj\Debug\ResolveAssemblyReference.cache
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmContratos.resources
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmRegContratos.resources
+F:\Contratos\frmContratos\obj\Debug\frmContratos.Properties.Resources.resources
+F:\Contratos\frmContratos\obj\Debug\frmContratos.csproj.GenerateResource.Cache
+F:\Contratos\frmContratos\bin\Debug\frmContratos.exe
+F:\Contratos\frmContratos\bin\Debug\frmContratos.pdb
+F:\Contratos\frmContratos\bin\Debug\AccesoDatos.dll
+F:\Contratos\frmContratos\bin\Debug\AccesoDatos.pdb
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.exe
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.pdb
+D:\gaceta 25-feb-2011\Contratos\frmContratos\bin\Debug\frmContratos.exe
+D:\gaceta 25-feb-2011\Contratos\frmContratos\bin\Debug\frmContratos.pdb
+D:\gaceta 25-feb-2011\Contratos\frmContratos\bin\Debug\AccesoDatos.dll
+D:\gaceta 25-feb-2011\Contratos\frmContratos\bin\Debug\AccesoDatos.pdb
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\ResolveAssemblyReference.cache
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.frmContratos.resources
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.frmEditContratos.resources
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.frmRegContratos.resources
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.Properties.Resources.resources
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.csproj.GenerateResource.Cache
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmEditContratos.resources
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmIngresos.resources
+F:\Contratos\frmContratos\bin\Debug\frmContratos.exe.config
+F:\Contratos\frmContratos\bin\Debug\frmContratos.exe.manifest
+F:\Contratos\frmContratos\bin\Debug\frmContratos.application
+F:\Contratos\frmContratos\obj\Debug\frmContratos.exe.manifest
+F:\Contratos\frmContratos\obj\Debug\frmContratos.application
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmAutores.resources
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmProductos.resources
+D:\gaceta 25-feb-2011\Contratos\frmContratos\bin\Debug\frmContratos.exe.config
+D:\gaceta 25-feb-2011\Contratos\frmContratos\bin\Debug\frmContratos.exe.manifest
+D:\gaceta 25-feb-2011\Contratos\frmContratos\bin\Debug\frmContratos.application
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.frmAutores.resources
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.frmIngresos.resources
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.frmProductos.resources
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.exe.manifest
+D:\gaceta 25-feb-2011\Contratos\frmContratos\obj\Debug\frmContratos.application
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmAsociarAutorCliente.resources
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmClientes.resources
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmSalidas.resources
+F:\Contratos\frmContratos\obj\Debug\frmContratos.frmDetSalidas.resources

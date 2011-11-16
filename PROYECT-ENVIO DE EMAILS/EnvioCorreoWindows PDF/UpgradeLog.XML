@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EnvioCorreoWindows">
+</Property><Property Name="Solution File" Value="F:\examples_pdf\EnvioCorreoWindows PDF\EnvioCorreoWindows.sln">
+</Property><Property Name="User Options File" Value="F:\examples_pdf\EnvioCorreoWindows PDF\EnvioCorreoWindows.suo">
+</Property><Property Name="Date" Value="viernes, 08 de abril de 2011">
+</Property><Property Name="Time" Value="15:28 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EnvioCorreoWindows.sln" Description="File successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\EnvioCorreoWindows.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EnvioCorreoWindows.suo" Description="File successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\EnvioCorreoWindows.suo">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="EnvioCorreoWindows.vbproj" Description="Project file successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\EnvioCorreoWindows.vbproj">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="EnvioCorreoWindows.vbproj.user" Description="Project user file successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\EnvioCorreoWindows.vbproj.user">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="AssemblyInfo.vb" Description="File successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="Formas\EnvioCorreo.vb" Description="File successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\Formas\EnvioCorreo.vb">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="Reportes\Reporte.vb" Description="File successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\Reportes\Reporte.vb">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="In Box.ico" Description="File successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\In Box.ico">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="Formas\EnvioCorreo.resx" Description="File successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\Formas\EnvioCorreo.resx">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="Reportes\Reporte.rpt" Description="File successfully backed up as F:\examples_pdf\EnvioCorreoWindows PDF\Backup\Reportes\Reporte.rpt">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="EnvioCorreoWindows.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EnvioCorreoWindows" Source="EnvioCorreoWindows.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EnvioCorreoWindows.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EnvioCorreoWindows.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnvioCorreoWindows" Source="EnvioCorreoWindows.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

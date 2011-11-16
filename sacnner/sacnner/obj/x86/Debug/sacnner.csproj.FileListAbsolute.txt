@@ -1,0 +1,11 @@
+E:\Prroyecto2012\sacnner\sacnner\bin\Debug\sacnner.exe
+E:\Prroyecto2012\sacnner\sacnner\bin\Debug\sacnner.pdb
+E:\Prroyecto2012\sacnner\sacnner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Prroyecto2012\sacnner\sacnner\obj\x86\Debug\Interop.WIA.dll
+E:\Prroyecto2012\sacnner\sacnner\obj\x86\Debug\sacnner.csproj.ResolveComReference.cache
+E:\Prroyecto2012\sacnner\sacnner\obj\x86\Debug\sacnner.Properties.Resources.resources
+E:\Prroyecto2012\sacnner\sacnner\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Prroyecto2012\sacnner\sacnner\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Prroyecto2012\sacnner\sacnner\obj\x86\Debug\sacnner.exe
+E:\Prroyecto2012\sacnner\sacnner\obj\x86\Debug\sacnner.pdb
+E:\Prroyecto2012\sacnner\sacnner\obj\x86\Debug\sacnner.Form1.resources
